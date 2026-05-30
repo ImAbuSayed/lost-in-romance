@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Lost In Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-romance/) |
+| **Get License** | [Secure Licensing Rights for Lost In Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4ba04cd566a605909d018659937b673c683b6fb405f49d4c259233e3caf365a8` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
